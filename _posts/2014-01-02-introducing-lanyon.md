@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing team Illumination
+title: Introducing team Illumination :)
 ---
 
 overview:
