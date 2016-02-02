@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kiwiana research
+title: New Zealand imagery research
 ---
 
 Here are some vector based images that I have researched.

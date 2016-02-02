@@ -3,7 +3,6 @@ layout: post
 title: Pattern trial
 ---
 
-
 ![nz]({{site.baseurl}}/images/tui.png)
 ![nz]({{site.baseurl}}/images/koru.png)
 ![nz]({{site.baseurl}}/images/fantail.png)
