@@ -4,7 +4,6 @@ title: Open design in NZ
 ---
 
 [openlab](http://openlab.ac.nz/ "openlab")
-http://openlab.ac.nz/
 Open Lab is an enterprise design studio within Massey University. Experienced design professionals, academics and student designers collaborate to solve organisational and business problems.
 
 [nzoss](https://nzoss.org.nz/ "nzoss")
