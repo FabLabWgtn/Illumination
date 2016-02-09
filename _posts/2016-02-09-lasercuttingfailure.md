@@ -20,7 +20,7 @@ but the problem was that this material folded badly and made edges instead of be
 ![Lasercutfail]({{site.baseurl}}/images/lasercutfail4.jpg)
 ![Lasercutfail]({{site.baseurl}}/images/lasercutfail5.jpg)
 We are cutting a poly on the lasercutter but we had many issues on this material as well because when laser cut out the shape it stuck together right away.
-We have increased the power on the setting manualy and it is giving us a cut but I don't think it will be clean as we have cut cardboards. 
+We have increased the power on the setting manualy and it is giving us a cut but I don't think it will be clean as we have cut cardboards. We are planning to cut our bamboo sheet when all the sized are right because we know that the Kerfpattern is working on our material. 
 
 
 Settings changed for cutting poly 0.65mm 
