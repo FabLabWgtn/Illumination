@@ -15,4 +15,4 @@ our aim is to minimalize materials for the sustainable purpose therefore we migh
 Golden Ratio White cylinder beside our original prototype.
 
 
-This doesn't necessarily mean that we will stop our process and play in the safe zone but when we figure out the size of our cylinder we want to try something new such as making the model adjustable or more customizable. 
+This doesn't necessarily mean that we will stop our process and play in the safe zone but when we figure out the size of our cylinder we want to try something new such as making the model adjustable or more customizable but minimalizing the material as our purpose.
