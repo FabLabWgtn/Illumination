@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wednesday class poly prototype
+title: poly prototype
 ---
 
 ![prototype]({{site.baseurl}}/images/polyprototype.jpg)
