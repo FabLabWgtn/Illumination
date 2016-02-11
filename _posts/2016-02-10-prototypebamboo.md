@@ -21,6 +21,8 @@ the only problem I think is that if you see the shape of cylinder it isn't actua
 ![prototype]({{site.baseurl}}/images/bambooprototype3.jpg)
 Though our pattern bends quite well regarding that it is a wood.
 
+The height of the lamp is 250mm (25cm) and if we top 2 more cylinders on top it will be 75cm in total with approx 5cm gap in total. (80cm height in total)
+
 
 Fin was having a problem with the fabduino program so there is no process on arduino yet but he will post later on about his process.
 
