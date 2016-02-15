@@ -7,4 +7,4 @@ title: Infographic Colour pallet
 Because we are using bamboo for our material I thought it would be nice to use Earth colours for the colour pallet. I am planning to use only 2 or 3 colours for the infographic though. 
 
 ![colourpallet]({{site.baseurl}}/images/colourpallet1.jpg)
-Here is the colour picked from our bamboo model
+colour picked from our bamboo model
