@@ -16,3 +16,4 @@ New MAHI-MAHI Logo engraved onto the lid
 ![Finalizedmodel]({{site.baseurl}}/images/tuesdayprogress7.jpg)
 ![Finalizedmodel]({{site.baseurl}}/images/tuesdayprogress8.jpg)
 NZ motif Patterns in detail
+Fin is planning to post what he has done on the blog with the arduino :)
