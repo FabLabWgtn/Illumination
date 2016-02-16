@@ -4,7 +4,7 @@ title: Instruction plan written out for infographic
 ---
 
 ![planwritten]({{site.baseurl}}/images/instructionplan0.jpg)
-This is the instruction for electronics. There are few steps missing and would need to be added
+This is the instruction for electronics. There are few steps missing and would need to be added, I will ask Fin when he finish off with our electronics today. 
 
 ![planwritten]({{site.baseurl}}/images/instructionplan.png)
 ![planwritten]({{site.baseurl}}/images/instructionplan.png1)
