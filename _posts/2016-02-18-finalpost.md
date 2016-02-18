@@ -7,10 +7,8 @@ title: How to make Mahi-Mahi lamp
 ![final]({{site.baseurl}}/images/constructionplan.jpg)
 
 
-![final]({{site.baseurl}}/images/electronic.zip)
-folder with electronic files NEEDED to make electronics
-![final]({{site.baseurl}}/images/illustratorfile.zip)
-folder with illustrator files NEEDED to make body of Mahi-Mahi
+Download 'electronic.zip' 'illustratorfile.zip' from the instrucatable to make Mahi-Mahi lamp
+[finalinstruction](http://www.instructables.com/id/MAHI-MAHI-Lamp/ "mahimahiInstructable")
 
 ![final]({{site.baseurl}}/images/github1.png)
 Here are the Instruction on how to download this file
