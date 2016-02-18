@@ -20,8 +20,11 @@ switch branches from gh-pages -> Master
 Now you are in the Master branch where you could download your files
 ![final]({{site.baseurl}}/images/github3.png)
 Go into the images file
-
+![final]({{site.baseurl}}/images/github4.png)
 Search for files that you want to download open it up and download it to your computer.
+![final]({{site.baseurl}}/images/github5.png)
+![final]({{site.baseurl}}/images/github6.png)
+click 'view the full file' link to download illustrator and electronics zip file
 
 ![final]({{site.baseurl}}/images/flattenelectronicguide.jpg)
 Instruction to make electronics
