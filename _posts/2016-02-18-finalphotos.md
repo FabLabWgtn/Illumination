@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final photos of MAHI-MAHI
+title: MAHI-MAHI lamp in darkroom
 ---
 
 ![final]({{site.baseurl}}/images/finalphoto.jpg)
